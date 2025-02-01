@@ -1,4 +1,4 @@
 # fullstackosa3
 
 ## Puhelinluettelo
-https://fullstackphonebook-suwf.onrender.com/api/persons
+https://fullstackphonebook-suwf.onrender.com/
